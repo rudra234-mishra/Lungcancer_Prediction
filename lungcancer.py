@@ -71,4 +71,5 @@ if st.button("Predict LungCancer "):
     
     else:
         st.error('Patient Has No LungCancer')
+
         
